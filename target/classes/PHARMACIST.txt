@@ -1,0 +1,1 @@
+{"username":"ze","password":"[C@79c283bc","email":"ze","name":"ze","state":"active","userType":PHARMACIST}

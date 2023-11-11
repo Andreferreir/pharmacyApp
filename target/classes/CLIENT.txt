@@ -1,0 +1,6 @@
+{"username":"andrea","password":"[C@1fc67fe8","email":"andrea","name":"andrea","state":"active","userType":CLIENT}
+{"login":"zezeze","password":"zezeze","email":"zezeze","name":"zezeze","state":"zezeze","userType":CLIENT,"nif":0,"tlf":0}
+{"login":"andre","password":"andre","email":"andre","name":"andre","state":"active","userType":CLIENT,"nif":0,"tlf":0}
+
+{"login":"TIAGO","password":"TIAGO","email":"TIAGO","name":"TIAGO","state":"ACTIVE","userType":CLIENT,"nif":0,"tlf":0}
+{"login":"MARIA","password":"MARIA","email":"MARIA","name":"MARIA","state":"INACTIVE","userType":CLIENT,"nif":0,"tlf":0}

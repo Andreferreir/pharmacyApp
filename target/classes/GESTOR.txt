@@ -1,0 +1,4 @@
+{"username":"andre","password":"[C@651c6e49","email":"andre","name":"andre","state":"active","userType":"GESTOR"}
+{"username":"ze","password":"[C@9e93d7f","email":"ze","name":"ze","state":"active","userType":"GESTOR"}
+{"username":"asdfg","password":"[C@f6d433e","email":"asdfgh","name":"sdfg","state":"active","userType":"GESTOR"}
+{"username":"andrea","password":"andrea","email":"andrea","name":"andrea","state":"ative","userType":GESTOR}
